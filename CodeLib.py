@@ -1,5 +1,5 @@
 """
-Written by: Maya Avezbakiev 318631991
+Written by: Maya Avezbakiev
 ==============================================================================
 This module provides helpful functionalities for handling handwritten document
 images, encoding writer identities, and preparing data for training and 
